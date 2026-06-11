@@ -60,6 +60,12 @@ The notebook covers a full analytics pipeline:
 
 ---
 
+## Dataset
+
+[Download dataset from Google Drive →](https://drive.google.com/file/d/1Xb_7VQppyIr2SP2NXET-VH_5L0lfzJz1/view?usp=sharing)
+
+---
+
 ## Tableau Dashboard
 
 [View interactive dashboard →](https://public.tableau.com/app/profile/maxim.pogorelskiy/vizzes)
